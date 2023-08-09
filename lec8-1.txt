@@ -1,0 +1,9 @@
+Functions 
+birthday function 
+"marriage functions "
+why are functions so important 
+didvide and conquer: construct a program from smaller pieces or components
+reuse: write once use anywhere required in the program 
+abstraction:hide details (library functions)
+ to improve the readability of code 
+reduces the size of the code duplicate set of statement sare replaced by fucntion
